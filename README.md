@@ -1,9 +1,14 @@
+
+
+
+<br>
+<br>
 <h1 align="center">👋 Hi, I’m @sunyoungdev</h1>
 <p align="center">
-    👩🏻‍💻I've been working 4 years as markup developer.<br>
-    👀 I’m interested in interactive web design.<br>
+    👩🏻‍💻 I've been working 4 years as markup developer.<br>
+    👀 I’m interested in interactive web pages.<br>
     🌱 I’m currently learning building React components.<br>
-    💞️ I’m looking to working in London.<br>
+    💞️ I’m looking to working in London.
 </p>
 
 
@@ -34,6 +39,8 @@
   <a href="https://github.com/sunyoungdev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub"></a>
   <a href="mailto:sunyoungkim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
+<br>
+<br>
 
 
 
