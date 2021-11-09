@@ -5,7 +5,7 @@
 <br>
 <h1 align="center">👋 Hi, I’m @sunyoungdev</h1>
 <p align="center">
-    👩🏻‍💻 I've been working 4 years as markup developer.<br>
+    👩🏻‍💻 I've been working 4 years as frontend markup developer.<br>
     👀 I’m interested in interactive web pages.<br>
     🌱 I’m currently learning building React components.<br>
     💞️ I’m looking to working in London.
