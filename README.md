@@ -49,5 +49,5 @@ Based in **London, UK**.
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/sunyoungdev  
+- LinkedIn: https://www.linkedin.com/in/sunyoungdev/
 - Email: sunyoungkim.dev@gmail.com
